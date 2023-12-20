@@ -1,0 +1,4 @@
+"Guid","Amount","CloseDate","Description","ForecastCategoryName","LeadSource","Name","NextStep","Pricebook2Id","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__PrimaryQuote__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type","test_field__c"
+4c9d8c77-d50a-436e-b192-fe5aa097e98a,"#N/A",2023-09-19,"#N/A",Pipeline,"#N/A",v14,"#N/A","#N/A",10.0,false,false,"#N/A",false,"#N/A","#N/A",false,Prospecting,"#N/A","#N/A"
+b06660ca-a8fe-4317-82a4-52f0498b59b1,"#N/A",2023-09-29,"#N/A",Pipeline,"#N/A",finastra,"#N/A","#N/A",10.0,false,false,"#N/A",false,"#N/A","#N/A",false,Prospecting,"#N/A","#N/A"
+ec9a81f7-851e-4a2b-ab1a-4679c5e9b3d1,"#N/A",2023-07-13,"#N/A",Pipeline,"#N/A",test,"#N/A",d5a30f26-ed85-45ac-a9d8-a0a1a4bbc441,10.0,false,false,"#N/A",false,"#N/A","#N/A",false,Prospecting,"#N/A","#N/A"
