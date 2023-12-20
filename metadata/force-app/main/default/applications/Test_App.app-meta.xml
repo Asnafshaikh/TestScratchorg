@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Test App</label>
+    <navType>Standard</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>regression11_15__c</tabs>
+    <tabs>regression11_15other__c</tabs>
+    <tabs>X11_16regression__c</tabs>
+    <tabs>X11_17regression__c</tabs>
+    <tabs>prodGreen11_19_1__c</tabs>
+    <tabs>X11_20test__c</tabs>
+    <tabs>test1120__c</tabs>
+    <tabs>X12_2_regression__c</tabs>
+    <tabs>customObject__c</tabs>
+    <tabs>X12_5_regression__c</tabs>
+    <tabs>X12_6_regression__c</tabs>
+    <tabs>Regression12_7__c</tabs>
+    <tabs>SBQQ__BlockPrice__c</tabs>
+    <tabs>X12_8_regression__c</tabs>
+    <tabs>sf_devops__Work_Item__c</tabs>
+    <tabs>JJ__c</tabs>
+    <tabs>SBQQ__PriceAction__c</tabs>
+    <tabs>transformation1__c</tabs>
+    <tabs>X12_11regression__c</tabs>
+    <tabs>SBQQ__ProductAction__c</tabs>
+    <tabs>X12_15test__c</tabs>
+    <tabs>fieldsTest__c</tabs>
+    <tabs>X11_18_Regression__c</tabs>
+    <tabs>PDRI__Managed_Environment__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Test_App_UtilityBar</utilityBar>
+</CustomApplication>

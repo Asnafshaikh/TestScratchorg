@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>name_not_empty</fullName>
+    <active>false</active>
+    <errorConditionFormula>Name != &quot; &quot;</errorConditionFormula>
+    <errorMessage>Name not empty</errorMessage>
+</ValidationRule>

@@ -1,0 +1,1 @@
+trigger TestTrigger117 on Contract (after insert){}

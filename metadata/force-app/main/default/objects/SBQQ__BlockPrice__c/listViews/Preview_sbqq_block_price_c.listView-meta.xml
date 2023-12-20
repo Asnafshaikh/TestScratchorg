@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Preview_sbqq_block_price_c</fullName>
+    <columns>SBQQ__Price__c</columns>
+    <filterScope>Mine</filterScope>
+    <label>Preview_sbqq__block_price__c</label>
+</ListView>

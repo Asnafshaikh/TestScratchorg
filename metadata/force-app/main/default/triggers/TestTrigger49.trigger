@@ -1,0 +1,1 @@
+trigger TestTrigger49 on Opportunity (after insert){}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Acccount_Lookup4__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>test</description>
+    <externalId>false</externalId>
+    <inlineHelpText>testhelp</inlineHelpText>
+    <label>Account Lookup Field 4</label>
+    <referenceTo>Account</referenceTo>
+    <relationshipLabel>Accountz_Lookup_Field_4</relationshipLabel>
+    <relationshipName>Accountz_Lookup_Field_4</relationshipName>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

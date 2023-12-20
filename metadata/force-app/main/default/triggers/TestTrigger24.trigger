@@ -1,0 +1,1 @@
+trigger TestTrigger24 on Account (after insert){}

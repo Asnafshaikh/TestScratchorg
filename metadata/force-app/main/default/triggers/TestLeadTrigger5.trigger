@@ -1,0 +1,1 @@
+trigger TestLeadTrigger5 on Lead (after insert){}
